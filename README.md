@@ -1,7 +1,7 @@
 # cheatengine-rpc
 Discord RPC plugin for cheatengine.
 
-[Download Plugin!](https://github.com/he4rtbleed/cheatengine-rpc/releases/tag/v0.1-alpha)
+[Download Plugin!](https://github.com/he4rtbleed/cheatengine-rpc/releases/download/v0.1-alpha/cheatengine-rpc.dll)
 
 ## USAGE
 #### Click settings button
