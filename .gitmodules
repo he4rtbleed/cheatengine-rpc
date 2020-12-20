@@ -1,0 +1,3 @@
+[submodule "cheatengine-rpc/library/discord-rpc"]
+	path = cheatengine-rpc/library/discord-rpc
+	url = https://github.com/discord/discord-rpc
